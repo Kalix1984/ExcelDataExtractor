@@ -9,3 +9,5 @@ It is in the Excel folder
 - JavaFX
 - Apache POI
 
+## Run
+console: mvn clean javafx:run
